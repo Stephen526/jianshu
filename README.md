@@ -26,9 +26,9 @@
 
 * 请确保本地已装mysql，并配置全局变量
 * mysql -u root -p 并输入数据库密码
-* create database learn; 创建learn数据库
-* use learn;  切换数据库
-* source learn.sql的路径; 例如：source /Users/shawzhou/Desktop/learning/instagram/db/learn.sql;
+* create database jianshu; 创建jianshu数据库
+* use jianshu;  切换数据库
+* source jianshu.sql的路径; 例如：source /Users/nm/Desktop/jianshu/db/jianshu.sql;
 * 配置egg.js连接数据库信息
 
 
@@ -42,7 +42,7 @@ config.sequelize = {
     dialect: 'mysql',
     host: '127.0.0.1',
     port: 3306,
-    database: 'learn',
+    database: 'jianshu',
     username: '', 
     password: '', 
     operatorsAliases: false
