@@ -1,0 +1,22 @@
+{
+  "name": "jianshu",
+  "version": "1.0.0",
+  "description": "个人瞎搞",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stephen526/jianshu.git"
+  },
+  "keywords": [
+    "jianshu"
+  ],
+  "author": "miao.song",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stephen526/jianshu/issues"
+  },
+  "homepage": "https://github.com/Stephen526/jianshu#readme"
+}
