@@ -21,6 +21,5 @@
 
 > 运行前端项目
 
-* cd client
 * npm install
 * npm start
